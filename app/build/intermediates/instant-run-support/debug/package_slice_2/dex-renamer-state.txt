@@ -1,0 +1,4 @@
+#Mon Dec 04 15:43:54 EST 2017
+base.0=/home/amanda/repo/TaskList/app/build/intermediates/transforms/dexMerger/debug/155
+path.0=classes.dex
+renamed.0=classes.dex

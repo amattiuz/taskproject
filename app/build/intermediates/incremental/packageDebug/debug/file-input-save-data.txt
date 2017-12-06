@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 06 09:03:00 EST 2017
+0.baseType=DIRECTORY
+0.base=/home/amanda/repo/TaskList/app/build/intermediates/transforms/dexMerger/debug/171
+0.path=classes.dex
+0.set=DEX
+count=1

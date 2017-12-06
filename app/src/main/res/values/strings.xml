@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_task_list_title">Task List</string>
+    <string name="title_activity_task_detail">"Task Detail"</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_task_title_here">enter task title here</string>
+    <string name="task_description">Task description</string>
+    <string name="enter_task_description_here">enter task description here</string>
+    <string name="str_due_date">Due date</string>
+    <string name="create_task">Create task</string>
+    <string name="update_task">Update task</string>
+    <string name="str_set_date">Set Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_not_set"> DATE NOT SET</string>
+</resources>
